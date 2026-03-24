@@ -7,6 +7,7 @@ const sections = [
   { id: "about", icon: Info, label: "About" },
   { id: "features", icon: Zap, label: "Features" },
   { id: "usecases", icon: Briefcase, label: "Use Cases" },
+  { id: "pricing", icon: Zap, label: "Pricing" },
   { id: "dashboard", icon: Monitor, label: "Dashboard" },
   { id: "testimonials", icon: MessageSquare, label: "Testimonials" },
   { id: "faq", icon: HelpCircle, label: "FAQ" },
